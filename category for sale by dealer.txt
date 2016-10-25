@@ -1,0 +1,44 @@
+<blockquote>
+        <label><input type="radio" name="id" value="169" onclick="form.submit(); return false;">antiques - by dealer</label><br>
+<label><input type="radio" name="id" value="162" onclick="form.submit(); return false;">appliances - by dealer</label><br>
+<label><input type="radio" name="id" value="170" onclick="form.submit(); return false;">arts &amp; crafts - by dealer</label><br>
+<label><input type="radio" name="id" value="192" onclick="form.submit(); return false;">atvs, utvs, snowmobiles - by dealer</label><br>
+<label><input type="radio" name="id" value="163" onclick="form.submit(); return false;">auto parts - by dealer</label><br>
+<label><input type="radio" name="id" value="204" onclick="form.submit(); return false;">auto wheels &amp; tires - by dealer</label><br>
+<label><input type="radio" name="id" value="171" onclick="form.submit(); return false;">baby &amp; kid stuff - by dealer</label><i> <span class="parenthetical">(no illegal sales of <a href="//www.craigslist.org/about/recalled_items">recall items</a>, e.g. drop-side cribs, <a href="http://www.cpsc.gov/en/Recalls/2015/Graco-Recalls-11-Models-of-Strollers/">recalled strollers</a>)</span></i><br>
+<label><input type="radio" name="id" value="198" onclick="form.submit(); return false;">bicycle parts - by dealer</label><br>
+<label><input type="radio" name="id" value="172" onclick="form.submit(); return false;">bicycles - by dealer</label><br>
+<label><input type="radio" name="id" value="202" onclick="form.submit(); return false;">boat parts - by dealer</label><br>
+<label><input type="radio" name="id" value="164" onclick="form.submit(); return false;">boats - by dealer</label><br>
+<label><input type="radio" name="id" value="173" onclick="form.submit(); return false;">books &amp; magazines - by dealer</label><br>
+<label><input type="radio" name="id" value="174" onclick="form.submit(); return false;">business/commercial - by dealer</label><br>
+<label><input type="radio" name="id" value="146" onclick="form.submit(); return false;">cars &amp; trucks - by dealer</label><i> <span class="parenthetical">(<a href="//www.craigslist.org/about/ctd">each ad must be for one specific vehicle</a>)</span> <small> ($5 per post)</small></i><br>
+<label><input type="radio" name="id" value="175" onclick="form.submit(); return false;">cds / dvds / vhs - by dealer</label><br>
+<label><input type="radio" name="id" value="165" onclick="form.submit(); return false;">cell phones - by dealer</label><br>
+<label><input type="radio" name="id" value="176" onclick="form.submit(); return false;">clothing &amp; accessories - by dealer</label><br>
+<label><input type="radio" name="id" value="177" onclick="form.submit(); return false;">collectibles - by dealer</label><br>
+<label><input type="radio" name="id" value="200" onclick="form.submit(); return false;">computer parts - by dealer</label><br>
+<label><input type="radio" name="id" value="166" onclick="form.submit(); return false;">computers - by dealer</label><br>
+<label><input type="radio" name="id" value="167" onclick="form.submit(); return false;">electronics - by dealer</label><br>
+<label><input type="radio" name="id" value="178" onclick="form.submit(); return false;">farm &amp; garden - by dealer</label><br>
+<label><input type="radio" name="id" value="142" onclick="form.submit(); return false;">furniture - by dealer</label><br>
+<label><input type="radio" name="id" value="179" onclick="form.submit(); return false;">general for sale - by dealer</label><br>
+<label><input type="radio" name="id" value="180" onclick="form.submit(); return false;">health and beauty - by dealer</label><br>
+<label><input type="radio" name="id" value="194" onclick="form.submit(); return false;">heavy equipment - by dealer</label><br>
+<label><input type="radio" name="id" value="181" onclick="form.submit(); return false;">household items - by dealer</label><br>
+<label><input type="radio" name="id" value="182" onclick="form.submit(); return false;">jewelry - by dealer</label><br>
+<label><input type="radio" name="id" value="183" onclick="form.submit(); return false;">materials - by dealer</label><br>
+<label><input type="radio" name="id" value="196" onclick="form.submit(); return false;">motorcycle parts - by dealer</label><br>
+<label><input type="radio" name="id" value="160" onclick="form.submit(); return false;">motorcycles/scooters - by dealer</label><br>
+<label><input type="radio" name="id" value="184" onclick="form.submit(); return false;">musical instruments - by dealer</label><br>
+<label><input type="radio" name="id" value="185" onclick="form.submit(); return false;">photo/video - by dealer</label><br>
+<label><input type="radio" name="id" value="168" onclick="form.submit(); return false;">rvs - by dealer</label><br>
+<label><input type="radio" name="id" value="186" onclick="form.submit(); return false;">sporting goods - by dealer</label><i> <span class="parenthetical">(no firearms, ammunition, pellet/BB guns, stun guns, etc.)</span></i><br>
+<label><input type="radio" name="id" value="161" onclick="form.submit(); return false;">tickets - by dealer</label><i> <span class="parenthetical">(one event per posting)</span> <small> ($5 per post)</small></i><br>
+<label><input type="radio" name="id" value="187" onclick="form.submit(); return false;">tools - by dealer</label><br>
+<label><input type="radio" name="id" value="188" onclick="form.submit(); return false;">toys &amp; games - by dealer</label><br>
+<label><input type="radio" name="id" value="206" onclick="form.submit(); return false;">trailers - by dealer</label><br>
+<label><input type="radio" name="id" value="189" onclick="form.submit(); return false;">video gaming - by dealer</label><br>
+<label><input type="radio" name="id" value="190" onclick="form.submit(); return false;">wanted - by dealer</label><br>
+
+    </blockquote>

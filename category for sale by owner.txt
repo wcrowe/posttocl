@@ -1,0 +1,47 @@
+<blockquote>
+        <label><input type="radio" name="id" value="150" onclick="form.submit(); return false;">antiques - by owner</label><br>
+<label><input type="radio" name="id" value="149" onclick="form.submit(); return false;">appliances - by owner</label><br>
+<label><input type="radio" name="id" value="135" onclick="form.submit(); return false;">arts &amp; crafts - by owner</label><br>
+<label><input type="radio" name="id" value="191" onclick="form.submit(); return false;">atvs, utvs, snowmobiles - by owner</label><br>
+<label><input type="radio" name="id" value="122" onclick="form.submit(); return false;">auto parts - by owner</label><br>
+<label><input type="radio" name="id" value="203" onclick="form.submit(); return false;">auto wheels &amp; tires - by owner</label><br>
+<label><input type="radio" name="id" value="107" onclick="form.submit(); return false;">baby &amp; kid stuff - by owner</label><i> <span class="parenthetical">(no illegal sales of <a href="//www.craigslist.org/about/recalled_items">recall items</a>, e.g. drop-side cribs, <a href="http://www.cpsc.gov/en/Recalls/2015/Graco-Recalls-11-Models-of-Strollers/">recalled strollers</a>)</span></i><br>
+<label><input type="radio" name="id" value="42" onclick="form.submit(); return false;">barter</label><br>
+<label><input type="radio" name="id" value="197" onclick="form.submit(); return false;">bicycle parts - by owner</label><br>
+<label><input type="radio" name="id" value="68" onclick="form.submit(); return false;">bicycles - by owner</label><br>
+<label><input type="radio" name="id" value="201" onclick="form.submit(); return false;">boat parts - by owner</label><br>
+<label><input type="radio" name="id" value="119" onclick="form.submit(); return false;">boats - by owner</label><br>
+<label><input type="radio" name="id" value="92" onclick="form.submit(); return false;">books &amp; magazines - by owner</label><br>
+<label><input type="radio" name="id" value="134" onclick="form.submit(); return false;">business/commercial - by owner</label><br>
+<label><input type="radio" name="id" value="145" onclick="form.submit(); return false;">cars &amp; trucks - by owner</label><br>
+<label><input type="radio" name="id" value="117" onclick="form.submit(); return false;">cds / dvds / vhs - by owner</label><i> <span class="parenthetical">(no pornography please)</span></i><br>
+<label><input type="radio" name="id" value="153" onclick="form.submit(); return false;">cell phones - by owner</label><br>
+<label><input type="radio" name="id" value="94" onclick="form.submit(); return false;">clothing &amp; accessories - by owner</label><br>
+<label><input type="radio" name="id" value="95" onclick="form.submit(); return false;">collectibles - by owner</label><br>
+<label><input type="radio" name="id" value="199" onclick="form.submit(); return false;">computer parts - by owner</label><br>
+<label><input type="radio" name="id" value="7" onclick="form.submit(); return false;">computers - by owner</label><br>
+<label><input type="radio" name="id" value="96" onclick="form.submit(); return false;">electronics - by owner</label><br>
+<label><input type="radio" name="id" value="133" onclick="form.submit(); return false;">farm &amp; garden - by owner</label><i> <span class="parenthetical">(legal sales of agricultural livestock OK)</span></i><br>
+<label><input type="radio" name="id" value="101" onclick="form.submit(); return false;">free stuff</label><i> <span class="parenthetical">(no "wanted" ads, pets, promotional giveaways, or intangible/digital items please)</span></i><br>
+<label><input type="radio" name="id" value="141" onclick="form.submit(); return false;">furniture - by owner</label><br>
+<label><input type="radio" name="id" value="73" onclick="form.submit(); return false;">garage &amp; moving sales</label><i> <span class="parenthetical">(no online or virtual sales here please)</span></i><br>
+<label><input type="radio" name="id" value="5" onclick="form.submit(); return false;">general for sale - by owner</label><br>
+<label><input type="radio" name="id" value="152" onclick="form.submit(); return false;">health and beauty - by owner</label><br>
+<label><input type="radio" name="id" value="193" onclick="form.submit(); return false;">heavy equipment - by owner</label><br>
+<label><input type="radio" name="id" value="97" onclick="form.submit(); return false;">household items - by owner</label><br>
+<label><input type="radio" name="id" value="120" onclick="form.submit(); return false;">jewelry - by owner</label><br>
+<label><input type="radio" name="id" value="136" onclick="form.submit(); return false;">materials - by owner</label><br>
+<label><input type="radio" name="id" value="195" onclick="form.submit(); return false;">motorcycle parts - by owner</label><br>
+<label><input type="radio" name="id" value="69" onclick="form.submit(); return false;">motorcycles/scooters - by owner</label><br>
+<label><input type="radio" name="id" value="98" onclick="form.submit(); return false;">musical instruments - by owner</label><br>
+<label><input type="radio" name="id" value="137" onclick="form.submit(); return false;">photo/video - by owner</label><br>
+<label><input type="radio" name="id" value="124" onclick="form.submit(); return false;">rvs - by owner</label><br>
+<label><input type="radio" name="id" value="93" onclick="form.submit(); return false;">sporting goods - by owner</label><i> <span class="parenthetical">(no firearms, ammunition, pellet/BB guns, stun guns, etc.)</span></i><br>
+<label><input type="radio" name="id" value="44" onclick="form.submit(); return false;">tickets - by owner</label><i> <span class="parenthetical">(one event per posting; please do not sell tickets for more than face value)</span></i><br>
+<label><input type="radio" name="id" value="118" onclick="form.submit(); return false;">tools - by owner</label><br>
+<label><input type="radio" name="id" value="132" onclick="form.submit(); return false;">toys &amp; games - by owner</label><br>
+<label><input type="radio" name="id" value="205" onclick="form.submit(); return false;">trailers - by owner</label><br>
+<label><input type="radio" name="id" value="151" onclick="form.submit(); return false;">video gaming - by owner</label><br>
+<label><input type="radio" name="id" value="20" onclick="form.submit(); return false;">wanted - by owner</label><br>
+
+    </blockquote>

@@ -1,0 +1,23 @@
+<blockquote>
+        <label><input type="radio" name="id" value="106" onclick="form.submit(); return false;">automotive services</label><br>
+<label><input type="radio" name="id" value="138" onclick="form.submit(); return false;">beauty services</label><br>
+<label><input type="radio" name="id" value="76" onclick="form.submit(); return false;">computer services</label><br>
+<label><input type="radio" name="id" value="77" onclick="form.submit(); return false;">creative services</label><br>
+<label><input type="radio" name="id" value="158" onclick="form.submit(); return false;">cycle services</label><br>
+<label><input type="radio" name="id" value="79" onclick="form.submit(); return false;">event services</label><br>
+<label><input type="radio" name="id" value="154" onclick="form.submit(); return false;">farm &amp; garden services</label><br>
+<label><input type="radio" name="id" value="104" onclick="form.submit(); return false;">financial services</label><br>
+<label><input type="radio" name="id" value="80" onclick="form.submit(); return false;">household services</label><br>
+<label><input type="radio" name="id" value="82" onclick="form.submit(); return false;">labor &amp; moving</label><br>
+<label><input type="radio" name="id" value="103" onclick="form.submit(); return false;">legal services</label><br>
+<label><input type="radio" name="id" value="81" onclick="form.submit(); return false;">lessons &amp; tutoring</label><br>
+<label><input type="radio" name="id" value="156" onclick="form.submit(); return false;">marine services</label><br>
+<label><input type="radio" name="id" value="155" onclick="form.submit(); return false;">pet services</label><br>
+<label><input type="radio" name="id" value="105" onclick="form.submit(); return false;">real estate services</label><br>
+<label><input type="radio" name="id" value="83" onclick="form.submit(); return false;">skilled trade services</label><br>
+<label><input type="radio" name="id" value="4" onclick="form.submit(); return false;">small biz ads</label><br>
+<label><input type="radio" name="id" value="148" onclick="form.submit(); return false;">therapeutic services</label><i> <small> ($10 per ad, $5 to repost. Ads reviewed M-F 9am-9pm, Sa-Su 10am-6pm PT. No edits.)&nbsp;&nbsp;<a target="_blank" href="//www.craigslist.org/about/help/therapeutic_services">More info</a></small></i><br>
+<label><input type="radio" name="id" value="140" onclick="form.submit(); return false;">travel/vacation services</label><br>
+<label><input type="radio" name="id" value="139" onclick="form.submit(); return false;">writing/editing/translation</label><br>
+
+    </blockquote>

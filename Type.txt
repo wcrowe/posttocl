@@ -1,0 +1,61 @@
+<blockquote>
+        <label>
+            <input type="radio" name="id" value="jo">job offered 
+        </label>
+        <br>
+        <label>
+            <input type="radio" name="id" value="go">gig offered
+        </label>
+        <i>(I'm hiring for a short-term, small or odd job)</i>
+        <br>
+        <label>
+            <input type="radio" name="id" value="jw">resume / job wanted
+        </label>
+        <br>
+        <br>
+        <label>
+            <input type="radio" name="id" value="ho">housing offered
+        </label>
+        <br>
+        <label>
+            <input type="radio" name="id" value="hw">housing wanted
+        </label>
+        <br>
+        <br>
+        <label>
+            <input type="radio" name="id" value="fso">for sale by owner
+        </label>
+        <br>
+        <label>
+            <input type="radio" name="id" value="fsd">for sale by dealer
+        </label>
+        <br>
+        <label>
+            <input type="radio" name="id" value="iwo">wanted by owner
+        </label>
+        <br>
+        <label>
+            <input type="radio" name="id" value="iwd">wanted by dealer
+        </label>
+        <br>
+        <br>
+        <label>
+            <input type="radio" name="id" value="so">service offered
+        </label>
+        <br>
+        <br>
+        <label>
+            <input type="radio" name="id" value="p">personal / romance
+        </label>
+        <br>
+        <br>
+        <label>
+            <input type="radio" name="id" value="c">community
+        </label>
+        <br>
+        <label>
+            <input type="radio" name="id" value="e">event / class
+        </label>
+        <br>
+        <br>
+    </blockquote>
