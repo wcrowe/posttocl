@@ -67,6 +67,7 @@ casper.then(function() {
   return this.capture('02_login.png');
 });
 
+
 casper.then(function () {
   this.sendKeys("input[name='inputEmailHandle']", "gatorcrowe@gmail.com");
 });
@@ -74,6 +75,7 @@ casper.then(function () {
 casper.then(function () {
   this.sendKeys("input[name='inputPassword']", "Mustang74");
 });
+
 
 casper.then(function() {
   return this.capture('03_filled_login.png');
@@ -116,10 +118,27 @@ casper.then(function() {
 
 casper.wait(getWaitTime());
 
+casper.then(function(){
+   //this.click(x('//*[@id="pagecontainer"]/section/form/blockquote/label[10]/input'));
+   this.click('input[name="id"][value="76"]');
+});
+
 casper.then(function() {
     return this.capture('07_choose_category.png');
 });
+casper.wait(getWaitTime());
 
-casper.run(function() {
-  this.die();
+
+casper.then(function(){
+   //this.click(x('//*[@id="pagecontainer"]/section/form/blockquote/label[10]/input'));
+   this.click('input[name="n"][value="2"]');
 });
+
+casper.then(function() {
+    return this.capture('08_choose_location.png');
+});
+casper.wait(getWaitTime());
+
+
+
+casper.run();

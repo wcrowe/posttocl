@@ -18,7 +18,8 @@ casper.start('http://casperjs.org/', function() {
     this.echo(this.getTitle());
 });
 
-casper.run(function() {
-  this.die();
+casper.run(function(){
+	this.echo('The run is done.');
+	this.exit();
 });
-casper.run();
+

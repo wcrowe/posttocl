@@ -1,0 +1,100 @@
+[info] [phantom] Starting...
+[info] [phantom] Running suite: 18 steps
+[debug] [phantom] opening url: http://tampa.craigslist.org/, HTTP GET
+[debug] [phantom] Navigation requested: url=http://tampa.craigslist.org/, type=Other, willNavigate=true, isMainFrame=true
+[debug] [phantom] url changed to "http://tampa.craigslist.org/"
+[debug] [phantom] Navigation requested: url=http://www.craigslist.org/static/localstorage.html?v=51a29e41f8e978141e4085ed4a77d170, type=Other, willNavigate=true, isMainFrame=false
+[debug] [phantom] Successfully injected Casper client-side utilities
+[debug] [phantom] start page is loaded
+[info] [phantom] Step anonymous 3/18 http://tampa.craigslist.org/ (HTTP 200)
+[debug] [phantom] Capturing page to D:/dev/posttocl/01-main.png with clipRect {"height":988,"left":0,"top":0,"width":1920}
+[info] [phantom] Capture saved to D:/dev/posttocl/01-main.png
+[info] [phantom] Step anonymous 3/18: done in 4822ms.
+[info] [phantom] Step anonymous 4/18 http://tampa.craigslist.org/ (HTTP 200)
+[debug] [phantom] Mouse event 'mousedown' on selector: #postlks > li:nth-child(2) > a
+[debug] [phantom] Mouse event 'mouseup' on selector: #postlks > li:nth-child(2) > a
+[debug] [phantom] Mouse event 'click' on selector: #postlks > li:nth-child(2) > a
+[debug] [phantom] Navigation requested: url=https://accounts.craigslist.org/login/home, type=LinkClicked, willNavigate=true, isMainFrame=true
+[info] [phantom] Step anonymous 4/18: done in 4849ms.
+[debug] [phantom] Navigation requested: url=https://accounts.craigslist.org/login?rt=L&rp=%2Flogin%2Fhome, type=LinkClicked, willNavigate=true, isMainFrame=true
+[debug] [phantom] url changed to "https://accounts.craigslist.org/login?rt=L&rp=%2Flogin%2Fhome"
+[debug] [phantom] Navigation requested: url=https://www.craigslist.org/static/localstorage.html?v=51a29e41f8e978141e4085ed4a77d170, type=Other, willNavigate=true, isMainFrame=false
+[debug] [phantom] Successfully injected Casper client-side utilities
+[info] [phantom] Step anonymous 5/18 https://accounts.craigslist.org/login?rt=L&rp=/login/home (HTTP 200)
+[debug] [phantom] Capturing page to D:/dev/posttocl/02_login.png
+[info] [phantom] Capture saved to D:/dev/posttocl/02_login.png
+[info] [phantom] Step anonymous 5/18: done in 6133ms.
+[info] [phantom] Step anonymous 6/18 https://accounts.craigslist.org/login?rt=L&rp=/login/home (HTTP 200)
+[debug] [phantom] Mouse event 'mousedown' on selector: input[name='inputEmailHandle']
+[debug] [phantom] Mouse event 'mouseup' on selector: input[name='inputEmailHandle']
+[debug] [phantom] Mouse event 'click' on selector: input[name='inputEmailHandle']
+[info] [phantom] Step anonymous 6/18: done in 6186ms.
+[info] [phantom] Step anonymous 7/18 https://accounts.craigslist.org/login?rt=L&rp=/login/home (HTTP 200)
+[debug] [phantom] Mouse event 'mousedown' on selector: input[name='inputPassword']
+[debug] [phantom] Mouse event 'mouseup' on selector: input[name='inputPassword']
+[debug] [phantom] Mouse event 'click' on selector: input[name='inputPassword']
+[info] [phantom] Step anonymous 7/18: done in 6257ms.
+[info] [phantom] Step anonymous 8/18 https://accounts.craigslist.org/login?rt=L&rp=/login/home (HTTP 200)
+[debug] [phantom] Capturing page to D:/dev/posttocl/03_filled_login.png
+[info] [phantom] Capture saved to D:/dev/posttocl/03_filled_login.png
+[info] [phantom] Step anonymous 8/18: done in 6680ms.
+[info] [phantom] Step anonymous 9/18 https://accounts.craigslist.org/login?rt=L&rp=/login/home (HTTP 200)
+[debug] [phantom] Mouse event 'mousedown' on selector: button.accountform-btn
+[debug] [phantom] Mouse event 'mouseup' on selector: button.accountform-btn
+[debug] [phantom] Mouse event 'click' on selector: button.accountform-btn
+[info] [phantom] Step anonymous 9/18: done in 6690ms.
+[debug] [phantom] Navigation requested: url=https://accounts.craigslist.org/login, type=FormSubmitted, willNavigate=true, isMainFrame=true
+[debug] [phantom] Navigation requested: url=https://accounts.craigslist.org/login/home, type=FormSubmitted, willNavigate=true, isMainFrame=true
+[debug] [phantom] url changed to "https://accounts.craigslist.org/login/home"
+[debug] [phantom] Navigation requested: url=https://www.craigslist.org/static/localstorage.html?v=51a29e41f8e978141e4085ed4a77d170, type=Other, willNavigate=true, isMainFrame=false
+[debug] [phantom] Successfully injected Casper client-side utilities
+[info] [phantom] Step _step 10/18 https://accounts.craigslist.org/login/home (HTTP 200)
+[info] [phantom] Step _step 10/18: done in 7324ms.
+[info] [phantom] wait() finished waiting for 862ms.
+[info] [phantom] Step anonymous 11/18 https://accounts.craigslist.org/login/home (HTTP 200)
+[debug] [phantom] Capturing page to D:/dev/posttocl/04_logged_in.png
+[info] [phantom] Capture saved to D:/dev/posttocl/04_logged_in.png
+[info] [phantom] Step anonymous 11/18: done in 8646ms.
+[info] [phantom] Step anonymous 12/18 https://accounts.craigslist.org/login/home (HTTP 200)
+[debug] [phantom] Mouse event 'mousedown' on selector: form.new_posting_thing input[type="submit"]
+[debug] [phantom] Mouse event 'mouseup' on selector: form.new_posting_thing input[type="submit"]
+[debug] [phantom] Mouse event 'click' on selector: form.new_posting_thing input[type="submit"]
+[info] [phantom] Step anonymous 12/18: done in 8660ms.
+[debug] [phantom] Navigation requested: url=https://accounts.craigslist.org/login/pstrdr, type=FormSubmitted, willNavigate=true, isMainFrame=true
+[debug] [phantom] Navigation requested: url=https://post.craigslist.org/c/tpa, type=FormSubmitted, willNavigate=true, isMainFrame=true
+[debug] [phantom] Navigation requested: url=https://post.craigslist.org/k/MsAsQYqb5hGrqJ0vkdLUxw/id0J1, type=FormSubmitted, willNavigate=true, isMainFrame=true
+[debug] [phantom] Navigation requested: url=https://post.craigslist.org/k/MsAsQYqb5hGrqJ0vkdLUxw/id0J1?s=type, type=FormSubmitted, willNavigate=true, isMainFrame=true
+[debug] [phantom] url changed to "https://post.craigslist.org/k/MsAsQYqb5hGrqJ0vkdLUxw/id0J1?s=type"
+[debug] [phantom] Navigation requested: url=https://www.craigslist.org/static/localstorage.html?v=51a29e41f8e978141e4085ed4a77d170, type=Other, willNavigate=true, isMainFrame=false
+[debug] [phantom] Successfully injected Casper client-side utilities
+[info] [phantom] Step _step 13/18 https://post.craigslist.org/k/MsAsQYqb5hGrqJ0vkdLUxw/id0J1?s=type (HTTP 200)
+[info] [phantom] Step _step 13/18: done in 14102ms.
+[info] [phantom] wait() finished waiting for 1778ms.
+[info] [phantom] Step anonymous 14/18 https://post.craigslist.org/k/MsAsQYqb5hGrqJ0vkdLUxw/id0J1?s=type (HTTP 200)
+[debug] [phantom] Capturing page to D:/dev/posttocl/05_type.png
+[info] [phantom] Capture saved to D:/dev/posttocl/05_type.png
+[info] [phantom] Step anonymous 14/18: done in 16316ms.
+[info] [phantom] Step anonymous 15/18 https://post.craigslist.org/k/MsAsQYqb5hGrqJ0vkdLUxw/id0J1?s=type (HTTP 200)
+[debug] [phantom] Mouse event 'mousedown' on selector: input[name="id"][value="so"]
+[debug] [phantom] Mouse event 'mouseup' on selector: input[name="id"][value="so"]
+[debug] [phantom] Mouse event 'click' on selector: input[name="id"][value="so"]
+[info] [phantom] Step anonymous 15/18: done in 16335ms.
+[debug] [phantom] Navigation requested: url=https://post.craigslist.org/k/MsAsQYqb5hGrqJ0vkdLUxw/id0J1, type=FormSubmitted, willNavigate=true, isMainFrame=true
+[debug] [phantom] Navigation requested: url=https://post.craigslist.org/k/MsAsQYqb5hGrqJ0vkdLUxw/id0J1?s=cat, type=FormSubmitted, willNavigate=true, isMainFrame=true
+[debug] [phantom] url changed to "https://post.craigslist.org/k/MsAsQYqb5hGrqJ0vkdLUxw/id0J1?s=cat"
+[debug] [phantom] Navigation requested: url=https://www.craigslist.org/static/localstorage.html?v=51a29e41f8e978141e4085ed4a77d170, type=Other, willNavigate=true, isMainFrame=false
+[debug] [phantom] Successfully injected Casper client-side utilities
+[info] [phantom] Step anonymous 16/18 https://post.craigslist.org/k/MsAsQYqb5hGrqJ0vkdLUxw/id0J1?s=cat (HTTP 200)
+[debug] [phantom] Capturing page to D:/dev/posttocl/06_choose_type.png
+[info] [phantom] Capture saved to D:/dev/posttocl/06_choose_type.png
+[info] [phantom] Step anonymous 16/18: done in 17083ms.
+[info] [phantom] Step _step 17/18 https://post.craigslist.org/k/MsAsQYqb5hGrqJ0vkdLUxw/id0J1?s=cat (HTTP 200)
+[info] [phantom] Step _step 17/18: done in 17101ms.
+[info] [phantom] wait() finished waiting for 906ms.
+[info] [phantom] Step anonymous 18/18 https://post.craigslist.org/k/MsAsQYqb5hGrqJ0vkdLUxw/id0J1?s=cat (HTTP 200)
+[debug] [phantom] Capturing page to D:/dev/posttocl/07_choose_category.png
+[info] [phantom] Capture saved to D:/dev/posttocl/07_choose_category.png
+[info] [phantom] Step anonymous 18/18: done in 18437ms.
+[info] [phantom] Done 18 steps in 18437ms
+[debug] [phantom] Navigation requested: url=about:blank, type=Other, willNavigate=true, isMainFrame=true
+[debug] [phantom] url changed to "about:blank"

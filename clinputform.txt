@@ -1,0 +1,298 @@
+<!DOCTYPE html>
+<!-- saved from url=(0065)https://post.craigslist.org/k/RAHPgZWb5hGp0isAXjcKhA/g7Dyc?s=edit -->
+<html class="js canvas draggable fileAPI geolocation hashChange matchMedia picture pushState placeholder no-touchCapable transitions localStorage gr__post_craigslist_org"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <!--<base href="https://post.craigslist.org">--><base href=".">
+    <title>tampa bay | create posting</title>
+    
+    	<meta name="robots" content="noarchive, noindex, nofollow; noimageindex">
+	<meta name="twitter:card" content="preview">
+	<meta property="og:site_name" content="craigslist">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <link type="text/css" rel="stylesheet" media="all" href="./tampa bay _ create posting_files/cl.css">
+    <link type="text/css" rel="stylesheet" media="all" href="./tampa bay _ create posting_files/postings.css">
+    <link type="text/css" rel="stylesheet" media="all" href="./tampa bay _ create posting_files/posting-process.css">
+    <link type="text/css" rel="stylesheet" media="all" href="./tampa bay _ create posting_files/jquery-ui-clcustom.css">
+    <!--[if lt IE 9]>
+<script src="//www.craigslist.org/js/html5shiv.min.js?v=096822b653643ed1af3136947e4ea79a" type="text/javascript" ></script>
+
+<script src="//www.craigslist.org/js/respond-fork.min.js?v=d7e1cb0d97ee0c0c9d84a7d4f1d03469" type="text/javascript" ></script>
+
+<![endif]-->
+<!--[if lte IE 7]>
+<script src="//www.craigslist.org/js/json2.min.js?v=178d4ad319e0e0b4a451b15e49b71bec" type="text/javascript" ></script>
+
+<![endif]-->
+    <link type="text/css" rel="stylesheet" media="all" href="./tampa bay _ create posting_files/leaflet.css">
+</head>
+
+<div class="gr-top-z-index gr-top-zero" tabindex="-1"><div class="_44eb54-hoverMenu _44eb54-referral" style="transform:translate(NaNpx, NaNpx);" data-grammarly-reactid=".2"><div class="_44eb54-panel" data-grammarly-reactid=".2.0"><div class="_44eb54-tooltip _44eb54-tooltip_hidden undefined" data-grammarly-reactid=".2.0.0"></div><div class="_44eb54-buttonArea" data-grammarly-reactid=".2.0.1"><div class="_44eb54-btn _44eb54-btn_disable" tabindex="-1" data-grammarly-reactid=".2.0.1.0"></div></div><div class="_44eb54-buttonArea" data-grammarly-reactid=".2.0.2"><div class="_44eb54-referralArea" tabindex="-1" data-grammarly-reactid=".2.0.2.0"><div class="_44eb54-btn _44eb54-btn_referral" data-grammarly-reactid=".2.0.2.0.0"></div><span class="_44eb54-referralText" data-grammarly-reactid=".2.0.2.0.1">Invite Friends</span></div></div><div class="_44eb54-line" data-grammarly-reactid=".2.0.3"></div><div class="_44eb54-buttonArea" data-grammarly-reactid=".2.0.5"><div class="_44eb54-btn _44eb54-btn_grammarly" data-action="editor" tabindex="-1" data-grammarly-reactid=".2.0.5.0"></div></div></div></div></div><div style="visibility: hidden; top: -9999px; position: absolute; opacity: 0;"><div class="_44eb54-hoverMenu _44eb54-referral" style="transform:translate(NaNpx, NaNpx);" data-grammarly-reactid=".1"><div class="_44eb54-panel" data-grammarly-reactid=".1.0"><div class="_44eb54-tooltip _44eb54-tooltip_hidden undefined" data-grammarly-reactid=".1.0.0"></div><div class="_44eb54-buttonArea" data-grammarly-reactid=".1.0.1"><div class="_44eb54-btn _44eb54-btn_disable" tabindex="-1" data-grammarly-reactid=".1.0.1.0"></div></div><div class="_44eb54-buttonArea" data-grammarly-reactid=".1.0.2"><div class="_44eb54-referralArea" tabindex="-1" data-grammarly-reactid=".1.0.2.0"><div class="_44eb54-btn _44eb54-btn_referral" data-grammarly-reactid=".1.0.2.0.0"></div><span class="_44eb54-referralText" data-grammarly-reactid=".1.0.2.0.1">Invite Friends</span></div></div><div class="_44eb54-line" data-grammarly-reactid=".1.0.3"></div><div class="_44eb54-buttonArea" data-grammarly-reactid=".1.0.5"><div class="_44eb54-btn _44eb54-btn_grammarly" data-action="editor" tabindex="-1" data-grammarly-reactid=".1.0.5.0"></div></div></div></div></div><body class="post en desktop w1024" data-gr-c-s-loaded="true" style=""><div id="afd"></div>
+    <script type="text/javascript"><!--
+    function C(k){return(document.cookie.match('(^|; )'+k+'=([^;]*)')||0)[2]}
+    var pagetype, pagemode;
+    (function(){
+        var h = document.documentElement;
+        h.className = h.className.replace('no-js', 'js');
+        var b = document.body;
+        var bodyClassList = b.className.split(/\s+/);;
+        pagetype = bodyClassList[0]; // dangerous assumption
+        var fmt = C('cl_fmt');
+        if ( fmt === 'regular' || fmt === 'mobile' ) {
+            pagemode = fmt;
+        } else if (screen.width <= 480) {
+            pagemode = 'mobile';
+        } else {
+            pagemode = 'regular';
+        }
+        pagemode = pagemode === 'mobile' ? 'mobile' : 'desktop';
+        bodyClassList.push(pagemode);
+        if (C('hidesearch') === '1' && pagemode !== 'mobile') {
+            bodyClassList.push('hide-search');
+        }
+        var width = window.innerWidth || document.documentElement.clientWidth;
+        if (width > 1000) { bodyClassList.push('w1024'); }
+        if (typeof window.sectionBase !== 'undefined') {
+            var mode = (decodeURIComponent(C('cl_tocmode') || '').match(new RegExp(window.sectionBase + ':([^,]+)', 'i')) || {})[1] || window.defaultView;
+            if (mode) {
+                bodyClassList.push(mode);
+            }
+        }
+        b.className = bodyClassList.join(' ');
+    }());
+--></script>
+
+
+    <article id="pagecontainer">
+
+        <header class="global-header">
+   <a class="header-logo" href="http://www.craigslist.org/">CL</a>
+
+    <nav class="breadcrumbs-container">
+
+<ul class="breadcrumbs">
+        <li class="crumb area">
+            <p>
+tampa bay
+                    <span class="breadcrumb-arrow">&gt;</span>
+            </p>
+        </li>
+
+        <li class="crumb subarea">
+            <p>
+hillsborough co                    <span class="breadcrumb-arrow">&gt;</span>
+            </p>
+        </li>
+
+        <li class="crumb section">
+            <p>
+services
+                    <span class="breadcrumb-arrow">&gt;</span>
+            </p>
+        </li>
+
+        <li class="crumb category">
+            <p>
+computer services
+                <span class="breadcrumb-arrow">&gt;</span>
+            </p>
+        </li>
+
+
+    <li class="crumb no-js">
+        <input type="submit" value="go">
+    </li>
+</ul>
+    </nav>
+
+<aside id="loginWidget" class="highlight">
+    <p>[ logged in as <strong><a href="https://accounts.craigslist.org/login/home">gatorcrowe@gmail.com</a></strong> ]</p>
+<p>[ <a href="https://accounts.craigslist.org/logout?rt=P&amp;rp=%2Fk%2FRAHPgZWb5hGp0isAXjcKhA%2Fg7Dyc">log out</a> ]</p>
+</aside></header>
+
+
+        <section class="body">
+    
+    <form id="postingForm" action="https://post.craigslist.org/k/RAHPgZWb5hGp0isAXjcKhA/g7Dyc" method="post">
+
+         
+
+        <div class="posting">
+            <fieldset style="margin-bottom: 1.5em;"><legend>contact info</legend>
+                <div class="row fields" style="margin-bottom: 0;">
+                    <span>
+                        <label class="req" for="FromEMail">
+                            <div class="label">email</div>
+                        </label>
+                        <i>gatorcrowe@gmail.com</i><input type="hidden" name="FromEMail" value="gatorcrowe@gmail.com">
+                    </span>
+                    <span id="oiab">
+<label title="craigslist will anonymize your email address">
+    <input type="radio" name="Privacy" value="C" checked="" tabindex="1">
+    CL mail relay <small>(recommended)</small>
+    <sup>[<a title="how does mail relay work?" target="_blank" href="https://www.craigslist.org/about/help/email-relay">?</a>]</sup>
+</label>
+
+
+            <label title="your actual email address will appear in the posting">
+                <input type="radio" name="Privacy" value="P" id="P" tabindex="1">
+                show my real email address 
+            </label>
+        
+
+<label title="no email address will appear in your posting - be sure to include other contact info!">
+    <input type="radio" name="Privacy" value="A" id="A" tabindex="1">
+    no replies to this email
+</label>
+</span>
+                </div>
+                <br>
+<div class="row fields" style="margin-bottom: 0;">
+    <div class="label">users can also contact me:</div>
+    <label><input name="contact_phone_ok" id="contact_phone_ok" type="checkbox" tabindex="1" value="1">by phone</label>
+    <label><input name="contact_text_ok" id="contact_text_ok" type="checkbox" tabindex="1" value="1">by text</label>
+    <label class="contact_phone std">
+        <div class="label">phone number</div>
+        <input type="text" class="std" value="" name="contact_phone" id="contact_phone" size="12" maxlength="16" tabindex="1" style="background-image: url(&quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABHklEQVQ4EaVTO26DQBD1ohQWaS2lg9JybZ+AK7hNwx2oIoVf4UPQ0Lj1FdKktevIpel8AKNUkDcWMxpgSaIEaTVv3sx7uztiTdu2s/98DywOw3Dued4Who/M2aIx5lZV1aEsy0+qiwHELyi+Ytl0PQ69SxAxkWIA4RMRTdNsKE59juMcuZd6xIAFeZ6fGCdJ8kY4y7KAuTRNGd7jyEBXsdOPE3a0QGPsniOnnYMO67LgSQN9T41F2QGrQRRFCwyzoIF2qyBuKKbcOgPXdVeY9rMWgNsjf9ccYesJhk3f5dYT1HX9gR0LLQR30TnjkUEcx2uIuS4RnI+aj6sJR0AM8AaumPaM/rRehyWhXqbFAA9kh3/8/NvHxAYGAsZ/il8IalkCLBfNVAAAAABJRU5ErkJggg==&quot;); background-repeat: no-repeat; background-attachment: scroll; background-size: 16px 18px; background-position: 98% 50%; cursor: pointer;">
+    </label>
+    <label class="contact_phone_extension ">
+        <div class="label">extension</div>
+        <input type="text" class="" value="" name="contact_phone_extension" id="contact_phone_extension" size="6" maxlength="6" tabindex="1" pattern="^[0-9,]+$" title="Please enter a number or leave this field blank">
+    </label>
+    <label class="std">
+        <div class="label">contact name</div>
+        <input type="text" value="" name="contact_name" id="contact_name" size="16" maxlength="32" tabindex="1">
+    </label>
+</div>
+            </fieldset>
+            <br>
+
+            
+
+            <div class="title row fields">
+                <label class="req">
+                    <div class="label">posting title</div>
+                    <input tabindex="1" type="text" name="PostingTitle" id="PostingTitle" maxlength="70" value="">
+                </label>
+                
+                <label class="std"><div class="label">specific location</div><input type="text" tabindex="1" name="GeographicArea" id="GeographicArea" size="12" maxlength="40" value=""></label>
+                <label class="req">
+                    <div class="label">postal code</div>
+                    <input tabindex="1" id="postal_code" name="postal" size="6" maxlength="15" value="">
+                </label>
+            </div>
+
+            <div class="row fields">
+                <label class="PostingBody req">
+                    <div>
+                        
+                        
+                        <span class="label">posting body</span>
+                    </div>
+                    <textarea class="req" tabindex="1" rows="10" id="PostingBody" name="PostingBody"></textarea><grammarly-btn><div style="visibility: hidden; z-index: 2;" class="_9b5ef6-textarea_btn _9b5ef6-not_focused" data-grammarly-reactid=".0"><div class="_9b5ef6-transform_wrap" data-grammarly-reactid=".0.0"><div title="Protected by Grammarly" class="_9b5ef6-status" data-grammarly-reactid=".0.0.0">&nbsp;</div></div></div></grammarly-btn>
+                    
+                </label>
+            </div>
+
+            <div class="row">
+                 
+            </div>
+
+            
+
+            <div class="row fields">
+                  
+            </div>
+
+            <div class="row fields js-only" id="mapinfo">
+    <fieldset>
+          <legend>
+                <label>
+                    <input data-checked="checked" tabindex="1" type="checkbox" name="wantamap" id="wantamap">
+                    show on maps
+                </label>
+                <sup>[<a target="_blank" href="https://www.craigslist.org/about/help/show_on_maps">?</a>]</sup>
+          </legend>
+          <div class="street0">
+    <label class="std">
+        <small class="fieldnote">optional</small>
+        <div class="label">street</div>
+        <input tabindex="1" id="xstreet0" class="nreq" name="xstreet0" size="20" maxlength="80" value="">
+    </label>
+</div>
+
+<div class="street1">
+    <label>
+        <small class="fieldnote">optional</small>
+        <div class="label">cross street</div>
+        <input tabindex="1" id="xstreet1" class="nreq" name="xstreet1" size="20" maxlength="80" value="">
+    </label>
+</div>
+
+<div class="citystate">
+    <label class="std">
+        <div class="label">city</div>
+        <input tabindex="1" id="city" class="nreq" name="city" size="20" maxlength="80" value=""><strong>,</strong>
+    </label>
+    <label>
+        <div class="label">&nbsp;</div>
+        <input tabindex="1" id="region" class="nreq" name="region" size="2" maxlength="2" value="">
+    </label>
+</div>
+
+<div class="postal">
+    <label>
+        <div class="label">postal code</div>
+        <input tabindex="1" id="postal_code" class="nreq" name="postal" size="10" maxlength="15" value="">
+    </label>
+</div>
+<input type="hidden" name="cl_geocoder_accuracy" value="">
+<input type="hidden" name="draggedpin" value="">
+    </fieldset>
+</div>
+
+            
+            
+
+            <div class="row" id="perms">
+                <label for="oc">
+    <input tabindex="1" type="checkbox" id="oc" name="contact_ok" value="1">
+    ok for others to contact you about other services, products or commercial interests
+</label>
+            </div>
+
+            <div class="row" id="copyAssign">
+                
+            </div>
+        </div>
+
+        <button tabindex="1" class="bigbutton" type="submit" name="go" value="Continue">continue</button>
+        <input type="hidden" name="cryptedStepCheck" value="U2FsdGVkX18yMTU3MTIxNfnQLhElMcPkN9KqM7jwmXu-PTMGptJR9c0AumwJ_V_6">
+    </form>
+
+</section>
+
+    </article>
+
+    
+        <script type="text/javascript"><!--
+var areaAbb = "tpa";
+var maptileBaseUrl = "//map{s}.craigslist.org/t09/{z}/{x}/{y}.png";
+--></script>
+    
+    <script src="./tampa bay _ create posting_files/general-concat.min.js.download" type="text/javascript"></script>
+
+    <script type="text/javascript"><!--
+        var iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        iframe.src = '//www.' + CL.url.baseDomain + '/static/localstorage.html?v=51a29e41f8e978141e4085ed4a77d170';
+        document.body.insertBefore(iframe, null);
+    --></script><iframe src="./tampa bay _ create posting_files/localstorage.html" style="display: none;"></iframe>
+    <script src="./tampa bay _ create posting_files/compatibility.min.js.download" type="text/javascript"></script>
+
+    <script src="./tampa bay _ create posting_files/leaflet-concat.min.js.download" type="text/javascript"></script>
+
+    <script src="./tampa bay _ create posting_files/postingform-concat.min.js.download" type="text/javascript"></script>
+
+    <script src="./tampa bay _ create posting_files/postings-concat.min.js.download" type="text/javascript"></script>
+
+
+<script aria-hidden="true" type="application/x-lastpass" id="hiddenlpsubmitdiv" style="display: none;"></script><script>try{(function() { for(var lastpass_iter=0; lastpass_iter < document.forms.length; lastpass_iter++){ var lastpass_f = document.forms[lastpass_iter]; if(typeof(lastpass_f.lpsubmitorig2)=="undefined"){ lastpass_f.lpsubmitorig2 = lastpass_f.submit; if (typeof(lastpass_f.lpsubmitorig2)=='object'){ continue;}lastpass_f.submit = function(){ var form=this; var customEvent = document.createEvent("Event"); customEvent.initEvent("lpCustomEvent", true, true); var d = document.getElementById("hiddenlpsubmitdiv"); if (d) {for(var i = 0; i < document.forms.length; i++){ if(document.forms[i]==form){ if (typeof(d.innerText) != 'undefined') { d.innerText=i.toString(); } else { d.textContent=i.toString(); } } } d.dispatchEvent(customEvent); }form.lpsubmitorig2(); } } }})()}catch(e){}</script></body><div style="visibility: hidden; top: -9999px; position: absolute; opacity: 0;"></div><div style="visibility: hidden; top: -9999px; position: absolute; opacity: 0;"></div><span class="gr__tooltip"><span class="gr__tooltip-content"></span><i class="gr__tooltip-logo"></i><span class="gr__triangle"></span></span></html>
